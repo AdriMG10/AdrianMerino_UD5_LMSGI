@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="cd_p1.xsl" type="text/xsl"?>
+<listaCD>
+    <cd>
+        <tituloAlbum>PATAGONIA</tituloAlbum>
+        <artista>L'haine</artista>
+        <cancion tiempo="192">Intro</cancion>
+        <cancion tiempo="178">ITM4L</cancion>
+        <cancion tiempo="198">Postre</cancion>
+        <cancion tiempo="222">Idaho</cancion>
+        <cancion tiempo="237">Meridiano</cancion>
+        <cancion tiempo="239">The Village</cancion>
+        <cancion tiempo="162">Final Fantasy</cancion>
+        <sello>Sony Music Entertainment España, S.L.</sello>
+        <anio>2021</anio>
+    </cd>
+    <cd>
+        <tituloAlbum>Ep.01-Causa</tituloAlbum>
+        <artista>DELLAFUENTE</artista>
+        <cancion tiempo="71">Taifa</cancion>
+        <cancion tiempo="142">La Verdad</cancion>
+        <cancion tiempo="189">Corazón de Agua</cancion>
+        <cancion tiempo="274">El Bosque</cancion>
+        <cancion tiempo="174">400 Demonios</cancion>
+        <cancion tiempo="217">El Barco</cancion>
+        <cancion tiempo="190">Yallah</cancion>
+        <cancion tiempo="236">Causa</cancion>
+        <sello>Santa Catalina</sello>
+        <anio>2020</anio>
+    </cd>
+    <cd>
+        <tituloAlbum>Préstame Un Sentimiento</tituloAlbum>
+        <artista>Cupido</artista>
+        <cancion tiempo="268">No Sabes Mentir</cancion>
+        <cancion tiempo="196">U Know</cancion>
+        <cancion tiempo="172">5 Senti 2</cancion>
+        <cancion tiempo="241">El Tiempo Es Oro</cancion>
+        <cancion tiempo="220">Milhouse</cancion>
+        <cancion tiempo="224">Continúa</cancion>
+        <cancion tiempo="181">Telepatía</cancion>
+        <cancion tiempo="178">Autoestima</cancion>
+        <sello>Universal Music Spain, S.L.U.</sello>
+        <anio>2019</anio>
+    </cd>
+    <cd>
+        <tituloAlbum>Y3Y2</tituloAlbum>
+        <artista>Rojuu</artista>
+        <cancion tiempo="169">Lugar Seguro 3.0</cancion>
+        <cancion tiempo="222">Twilight</cancion>
+        <cancion tiempo="157">Infinite Azure</cancion>
+        <cancion tiempo="329">Makima</cancion>
+        <cancion tiempo="176">22</cancion>
+        <sello>Ceuve</sello>
+        <anio>2021</anio>
+    </cd>
+    <cd>
+        <tituloAlbum>Coupé</tituloAlbum>
+        <artista>Soto Asa</artista>
+        <cancion tiempo="138">Most Wanted</cancion>
+        <cancion tiempo="197">Caminando</cancion>
+        <cancion tiempo="179">Smartphone</cancion>
+        <cancion tiempo="168">Kiyaera</cancion>
+        <cancion tiempo="223">Yo Te Buské</cancion>
+        <cancion tiempo="140">Otra Realidad</cancion>
+        <sello>La Vendicion</sello>
+        <anio>2020</anio>
+    </cd>
+    <cd>
+        <tituloAlbum>El Mal Querer</tituloAlbum>
+        <artista>ROSALÍA</artista>
+        <cancion tiempo="150">Malamente - Cap.1: Augurio</cancion>
+        <cancion tiempo="269">Que no salga la luna - Cap.2: Boda</cancion>
+        <cancion tiempo="193">Pienso en tu mirá - Cap.3: Celos</cancion>
+        <cancion tiempo="144">De aquí no sales - Cap.4: Disputa</cancion>
+        <cancion tiempo="208">Reniego - Cap.5: Lamento</cancion>
+        <cancion tiempo="40">Preso - Cap.6: Clausura</cancion>
+        <cancion tiempo="182">Bagdad - Cap.7: Liturgia</cancion>
+        <cancion tiempo="162">Di mi nombre - Cap.8: Éxtasis</cancion>
+        <sello>Sony Music Entertainment</sello>
+        <anio>2018</anio>
+    </cd>
+    <cd>
+        <tituloAlbum>de la luz</tituloAlbum>
+        <artista>Judeline</artista>
+        <cancion tiempo="85">trafalgar • amanecer</cancion>
+        <cancion tiempo="187">otro lugar • despertar</cancion>
+        <cancion tiempo="127">señal • atardecer</cancion>
+        <cancion tiempo="172">marisucia • noche</cancion>
+        <cancion tiempo="66">tonada de la luz • madrugada</cancion>
+        <sello>Judeline</sello>
+        <anio>2022</anio>
+    </cd>
+    <cd>
+        <tituloAlbum>Moonlight922</tituloAlbum>
+        <artista>Cruz Cafuné</artista>
+        <cancion tiempo="51">922 928</cancion>
+        <cancion tiempo="198">Ojitos Aguaos</cancion>
+        <cancion tiempo="199">Lo Pues Intentar</cancion>
+        <cancion tiempo="193">Moonlight</cancion>
+        <cancion tiempo="253">En Bajo Perfil</cancion>
+        <sello>MÉCÈN Ent.</sello>
+        <anio>2020</anio>
+    </cd>
+    <cd>
+        <tituloAlbum>Corazón Verde</tituloAlbum>
+        <artista>Sticky M.A.</artista>
+        <cancion tiempo="171">Opening (Cielo)</cancion>
+        <cancion tiempo="158">Normal</cancion>
+        <cancion tiempo="178">Kasei</cancion>
+        <cancion tiempo="92">No Sé Qué Coño Me Has Hecho PT1</cancion>
+        <cancion tiempo="158">No Sé Qué Coño Me Has Hecho PT2</cancion>
+        <cancion tiempo="121">Ending (Mágico)</cancion>
+        <sello>Agorazein</sello>
+        <anio>2021</anio>
+    </cd>
+    <cd>
+        <tituloAlbum>Otras Alas</tituloAlbum>
+        <artista>Natalia Lacunza</artista>
+        <cancion tiempo="56">nada</cancion>
+        <cancion tiempo="189">tarántula</cancion>
+        <cancion tiempo="203">gata negra</cancion>
+        <cancion tiempo="175">otras alas</cancion>
+        <cancion tiempo="221">no te veo</cancion>
+        <cancion tiempo="188">Olivia</cancion>
+        <cancion tiempo="187">nana triste</cancion>
+        <sello>Universal Music Spain, S.L.U.</sello>
+        <anio>2019</anio>
+    </cd>
+</listaCD>
