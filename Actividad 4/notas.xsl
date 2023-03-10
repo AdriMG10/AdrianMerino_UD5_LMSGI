@@ -11,15 +11,15 @@
                         font-weight:bold; 
                         text-align:center;
                     }
-					.color1 {background-color:khaki;}
-					.color2 {background-color:lavenderblush;}
-					.color3 {background-color:lightsteelblue;}
-					td {
+                    .color1 {background-color:khaki;}
+                    .color2 {background-color:lavenderblush;}
+                    .color3 {background-color:lightsteelblue;}
+                    td {
                         text-align: left;
                         border: 1px solid black;
                         padding: 10px;
                     }
-				</style>
+                </style>
                 <title>Actividad 4 - ED - UD5</title>
             </head>
             <body>
