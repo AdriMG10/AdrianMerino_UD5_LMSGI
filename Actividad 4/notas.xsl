@@ -27,8 +27,8 @@
                     <h1>Calificaciones Convocatoria Junio</h1>
                     <table border="10" align="center">
                         <tr class="color1">
-                            <th colspan="3">Datos</th>
-                            <th colspan="3">Notas</th>
+                            <th colspan="2">Datos</th>
+                            <th colspan="4">Notas</th>
                         </tr>
                         <tr class="color2">
                             <th>Nombre</th>
